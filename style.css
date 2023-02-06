@@ -6,6 +6,20 @@ body{
 }
 
 
+.header{
+  padding-bottom:20px;
+}
+
+
+}
+
+img{
+  width:300px
+}
+
+
+
+
 
 .school{
   font-size: 17px;
@@ -31,3 +45,17 @@ p{
   border-bottom:2px solid lightsalmon;
     
 }
+
+h4{
+  border-bottom: 1.5px solid khaki;
+  padding-bottom:10px;
+}
+
+h6{
+  color:
+}
+.one{
+  padding-top:20px;
+}
+
+
