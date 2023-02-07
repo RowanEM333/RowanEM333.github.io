@@ -49,6 +49,10 @@ h6{
 }
 
 li{
-  text-align: left
+  text-align:left
 }
 
+footer{
+  background-color:cornflowerblue;
+  color:white;
+}
