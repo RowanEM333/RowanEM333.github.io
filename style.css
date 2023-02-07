@@ -36,6 +36,10 @@ p{
   border-bottom:2px solid lightsalmon;   
 }
 
+h3{
+  text-align:center;
+}
+
 h4{
   border-bottom: 1.5px solid khaki;
   padding-bottom:10px;
