@@ -3,10 +3,6 @@ body{
   background-color:Thistle;
   font-family: Arial, Helvetica, sans-serif;
   margin: 10% 17%;
-  text-align: center;
-}
-
-
 }
 
 .header{
@@ -18,18 +14,13 @@ img{
   border: 1px solid khaki;
 }
 
-
-
-
 .school{
   font-size: 17px;
 }
 
-
 p{
   font-size: 14px;
 }
-
 
 .ed{
   
@@ -38,12 +29,10 @@ p{
   border-bottom:2px solid lightsalmon;
 }
 
-
 .work{
   text-transform:uppercase;
   border-top:2px solid lightsalmon;
-  border-bottom:2px solid lightsalmon;
-    
+  border-bottom:2px solid lightsalmon;   
 }
 
 h4{
@@ -54,6 +43,7 @@ h4{
 h6{
   color:
 }
+
 .one{
   padding-top:20px;
 }
